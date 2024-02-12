@@ -1,0 +1,37 @@
+<html>
+
+<head>
+
+<title>S BILAL WEBPAGE </title>
+
+</head>
+
+<body>
+
+<h1><center><Font Color="#9ACD32"> BILAL </h1> 
+
+<center><img scr="bilal" height="250"></center>
+
+<h2><center><Font Face="ALGERIAN"><Font Color="#DC143C">EDUCATION AND INTERESTS</Font></Font></h2>
+
+<P><center><Font Face="Comic SAns MS"><Font Color="#4B0082"> Education is the most important thing for human being.Education teaches us lesson of humanity.Eduction comprises good thought in human being.<BR>
+
+Education tell men how to think,how to work properly,how to make decision.Education contributes to human development.Eaducation gives us employment and identity.<BR>
+ Education highlight the human talent.Eaducation leads to innovations and descoveries. Education develops a meaningful outlook onlife.It is foundation of human development.My favourite subject is maths,and computer.
+In O/LEVELS i will take computer science.</Font></Font>
+ </p>
+
+<h2><center><Font Face="ALGERIAN"><Font Color="#B8860B"> Hobbies</Font></Font> </h2>
+
+<p><center><Font Face="Comic Sans MS"><Font Color="#8B008B"> My hobbie is to play cricket.I play it daily after school.I am a good player of cricket I play cricket with my classfellow and brother.<BR>
+I am a captain of my school<BR>  cricket team.Playing cricket keeps me physically fit.I take a part in the cricket championship.I have won many prizes in cricket.Cricket is a very<BR>
+ interesting sport.In cricket,I love batting and boiwling.</Font></Font></p>
+
+<h2><center><Font Face="ALGERIAN"><Font Color="#FF00FF">Career Ambition</Font></Font> </h2>
+
+<p><center><Font Face="Comic Sans MS"><Font Color="#8B4513"> Career aspiration is a driving force in life for every individual.Career aspiration help us gain our motivation at time of darkness.It is an important to be <BR>
+punctual while chasing our career aspiration make us self-confident and independent.Career aspiration are to ensure security and financial stability.I want to become a computer enginner<BR>
+& cricketer.I will earn money and help other in computer.<BR></Font></Font></p>
+
+</body>
+</html> 
